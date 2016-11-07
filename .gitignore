@@ -3,4 +3,5 @@
 /.settings/
 *.iml
 .git
+*/.idea/*
 .idea/*
